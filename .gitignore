@@ -36,3 +36,10 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+
+/.svelte-kit
+/package
+.env.*
+!.env.example
+vite.config.js.timestamp-*
