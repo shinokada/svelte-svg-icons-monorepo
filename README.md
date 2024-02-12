@@ -16,3 +16,4 @@ Do the following when you move a repo
 ```
 
 - For Svelte SVG icons, remove `src/routes/layout` dir.
+- Remove `.git` and `.gitignore` from new packages. 
